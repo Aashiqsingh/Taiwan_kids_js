@@ -1,0 +1,67 @@
+Programming language -- Programming language is a set of instruction given to computer to perform specif task.
+ex : c , x++ , java
+void main()
+
+
+Scriptting language -- Scriptting language is a subset of programming language.
+ex : html , css , javascript , python 
+single line : code 
+
+
+Javascript have no dataType 
+
+There are two types of pages.
+1. statically page 
+    - when you declare variable you need to daclare first datatype 
+2. dynamically page 
+    - here not required to declare datatype 
+
+
+Histroy of javascript?
+Js History :
+Java Script is devloped by brenden eich by 1995. for netscap navigator browser.
+
+javaScript engines :
+- spidermonkey -> firefox 
+- chakra -> internet exporer
+- v8 -> google chrome [node] 
+- javaScript core : safari 
+- rhino : java 
+
+
+Where run javascript ?
+- browser / client side 
+
+
+What is the use of JavaScript?
+- To maniplute the DOM(Document object model)
+
+
+No Datatype 
+
+There are three keyword 
+1. var -- globally  scope
+2. let -- block scope 
+3. const -- block ans can't change the value 
+
+
+
+Browser can understand only html. 
+
+
+There are three ways to define js?
+1. external  [.js]  -- external
+2. internal <script>
+3. inline  
+
+
+
+{
+
+}
+
+{
+    {
+
+    }
+}
