@@ -42,7 +42,7 @@ No Datatype
 There are three keyword 
 1. var -- globally  scope
 2. let -- block scope 
-3. const -- block ans can't change the value 
+3. const -- block scope ans can't change the value 
 
 
 
