@@ -1,0 +1,20 @@
+There are three types of operator.
+
+1. unary operator
+    - it will required only one operand 
+    ex : a++ , ++a
+
+2. binary operator
+    - it will required two operand
+
+3. Ternary operator
+    - it will required three operand
+
+
+Binary operator :
+1. Airthmatic operator : + , - , * , / , % , ** 
+2. Assignment operator : = , += , -= , *= , /= , %=
+3. Relational operator / comparison operator : == , <= , >= , < , > , != , === , !== 
+4. Logical operator : && , || , ! 
+5. Bitwise operator : & , | , ^
+6. shift operator : << , >> 

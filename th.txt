@@ -65,3 +65,6 @@ There are three ways to define js?
 
     }
 }
+
+
+take input from user 2 number and add ,sub , mul , div , module.
