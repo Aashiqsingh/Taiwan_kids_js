@@ -1,0 +1,2 @@
+write 10 if else programs 
+write 2 switch case programs.
