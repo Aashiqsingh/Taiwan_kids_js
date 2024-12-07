@@ -1,0 +1,6 @@
+Majorly two types of loop 
+1. entry controlled loop
+    - for loop 
+    - while loop
+2. exit control loop
+    - do while loop
