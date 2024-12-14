@@ -48,9 +48,9 @@ var str = "Aoyal technosoft pvt ltd";
 
 
 // var x = str.toUpperCase()
-var x = str.toLocaleLowerCase()
+// var x = str.toLocaleLowerCase()
 
-console.log(x);
+// console.log(x);
 
 
 
@@ -60,9 +60,21 @@ console.log(x);
 
 
 
-user :- naishamehta
-user :- takshshah
+// user :- naishamehta
+// user :- takshshah
 
 
-output :- @naishamehta11
-output :- @takshshah9
+// output :- @naishamehta11
+// output :- @takshshah9
+
+var name = prompt("Enter an userName without spacing...")
+
+var userName = "@" + name + name.length
+
+
+console.log(userName);
+
+// var anchor = "@";
+
+// var x = anchor.concat(name)
+// console.log(x + name.length);
