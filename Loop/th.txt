@@ -4,3 +4,13 @@ Majorly two types of loop
     - while loop
 2. exit control loop
     - do while loop
+
+
+
+    let i=0;
+
+    do{
+        console.log("good morning)
+        i++;
+        
+    }while(i<5)
