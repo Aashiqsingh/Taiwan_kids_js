@@ -1,0 +1,18 @@
+JSON --> JavaScript object notation 
+
+
+Data --> send --> receive 
+
+
+name : naisha , age : 16 , email :naisha@gmail.com
+
+
+var name = naisha 
+var age = 16
+
+var student = {
+    roll: 1,
+    name :"naisha",
+    age:16,
+    email:"naisha@gmail.com"
+}
