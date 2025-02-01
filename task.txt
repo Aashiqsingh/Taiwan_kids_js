@@ -6,3 +6,25 @@ write 2 switch case programs.
 for loop -- 5 program 
 while loop -- 5 program 
 do while loop -- 5 program
+
+
+
+Today Task :
+Area of circle with arrow function
+Area of square with arrow function
+Area of triangle with arrow function
+prime number with arrow function
+find reverse number 
+
+
+const circle = (pie)=>{
+
+    circle = 2 * pie * pie
+
+    log(circle)
+}
+
+circle(4)
+
+
+123 --> 321
