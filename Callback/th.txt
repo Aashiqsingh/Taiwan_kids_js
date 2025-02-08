@@ -1,0 +1,6 @@
+javaScript -- single threded application
+
+
+
+Java is a multi-threaded application
+
