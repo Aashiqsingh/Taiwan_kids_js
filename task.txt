@@ -28,3 +28,7 @@ circle(4)
 
 
 123 --> 321
+
+
+
+string : naisha   --> ahsian 
