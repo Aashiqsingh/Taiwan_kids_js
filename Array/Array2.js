@@ -47,7 +47,7 @@
 // var x = names.reverse()
 // console.log(x);
 
-var names = ["varun","naisha","taksh","dravya","roshan","hiya","diya"];
+// var names = ["varun","naisha","taksh","dravya","roshan","hiya","diya"];
 
 
 
@@ -57,4 +57,8 @@ var names = ["varun","naisha","taksh","dravya","roshan","hiya","diya"];
 // console.log(x);
 
 
+var name = "dravya";
+
+var x = name.split("").reverse().join("");
+console.log(x);
 
