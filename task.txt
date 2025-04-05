@@ -32,3 +32,14 @@ circle(4)
 
 
 string : naisha   --> ahsian 
+
+
+
+---------------------------------
+Loop task 
+1. find fibonacci numbers : 0 1 1 2 3
+2. find Prime number :
+3. if else :
+    1 . 30 days 
+    2. 28 days 
+    3. 
