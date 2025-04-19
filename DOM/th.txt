@@ -1,0 +1,14 @@
+What is dom ?
+- DOM(Document object model) -- static page made by html
+
+
+identifier 
+1. id -- uniqui
+2. class -- multiple
+3. tagname -- multiple 
+4. name -- multiple 
+5. querrySelector 
+
+
+Event :
+1. onclick
