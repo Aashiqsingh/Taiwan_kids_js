@@ -1,0 +1,21 @@
+Promise --> - pending(Resolve/reject) 
+
+Promise is a Class in javascript
+
+if you want to achive promise then have to synchronise way 
+
+1. synchronise -- javascript is bydefault synchronus
+2. asynchronise 
+
+
+
+1. starting code...
+
+2. This is the code -- 2 min 
+
+3. Ending code...
+
+1. block sync 
+     - then catch
+2. function sync
+    - async await
